@@ -9,6 +9,7 @@ namespace MyDIContainer
 {
     public static class IoC
     {
+        //warning - static class not tested
         static readonly IDictionary<Type, Type> types = new Dictionary<Type, Type>();
         /// <summary>
         /// add type to container, generic

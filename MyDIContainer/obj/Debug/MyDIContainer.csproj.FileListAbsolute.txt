@@ -1,0 +1,5 @@
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\MyDIContainer\bin\Debug\MyDIContainer.dll
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\MyDIContainer\bin\Debug\MyDIContainer.pdb
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\MyDIContainer\obj\Debug\MyDIContainer.csprojAssemblyReference.cache
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\MyDIContainer\obj\Debug\MyDIContainer.dll
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\MyDIContainer\obj\Debug\MyDIContainer.pdb

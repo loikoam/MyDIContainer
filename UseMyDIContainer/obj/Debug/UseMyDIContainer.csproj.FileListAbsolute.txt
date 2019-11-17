@@ -1,0 +1,9 @@
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\bin\Debug\UseMyDIContainer.exe.config
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\bin\Debug\UseMyDIContainer.exe
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\bin\Debug\UseMyDIContainer.pdb
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\bin\Debug\MyDIContainer.dll
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\bin\Debug\MyDIContainer.pdb
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\obj\Debug\UseMyDIContainer.csprojAssemblyReference.cache
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\obj\Debug\UseMyDIContainer.csproj.CopyComplete
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\obj\Debug\UseMyDIContainer.exe
+C:\Users\PK-Aleksandr\source\repos\MyDIContainer\UseMyDIContainer\obj\Debug\UseMyDIContainer.pdb

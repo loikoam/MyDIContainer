@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDIContainer", "MyDIContainer\MyDIContainer.csproj", "{D3FA6C87-2095-4371-BA90-8D3D587DD8C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseMyDIContainer", "UseMyDIContainer\UseMyDIContainer.csproj", "{A5280B91-E5DD-42A8-B0AC-D1DB86C71D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3FA6C87-2095-4371-BA90-8D3D587DD8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FA6C87-2095-4371-BA90-8D3D587DD8C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FA6C87-2095-4371-BA90-8D3D587DD8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FA6C87-2095-4371-BA90-8D3D587DD8C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5280B91-E5DD-42A8-B0AC-D1DB86C71D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5280B91-E5DD-42A8-B0AC-D1DB86C71D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5280B91-E5DD-42A8-B0AC-D1DB86C71D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5280B91-E5DD-42A8-B0AC-D1DB86C71D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C45A95-C430-40E1-A386-62DDC9199834}
+	EndGlobalSection
+EndGlobal
